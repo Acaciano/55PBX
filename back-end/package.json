@@ -1,0 +1,32 @@
+{
+  "name": "55PBXTest",
+  "version": "1.0.0",
+  "description": "55PBX Test para DEV Senior",
+  "main": "src/app.js",
+  "scripts": {
+    "dev": "nodemon src/server.js",
+    "start": "NODE_ENV=env node src/app.js"
+  },
+  "repository": "",
+  "author": "Acaciano Neves <acaciano.neves@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cherio": "^1.0.0-rc.2",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "handlebars": "^4.7.6",
+    "jsonwebtoken": "^8.5.1",
+    "koa": "^2.13.4",
+    "mongoose": "^5.11.8",
+    "nodemon": "^2.0.6",
+    "pg": "^8.4.2",
+    "request": "^2.88.2",
+    "socket.io": "^4.5.1",
+    "util": "^0.12.3"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.2.0"
+  }
+}
