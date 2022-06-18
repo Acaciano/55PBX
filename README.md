@@ -29,10 +29,10 @@ Instruções para instalação do banco de dados:
 
 4 - Comandos para rodar a aplicação back-end
 
-  1 - npm install
-  2 - npm dev
+    1 - npm install
+    2 - npm dev
   
 5 - Comandos para rodar a aplicação front-end
 
-  1 - npm install
-  2 - npm start
+    1 - npm install
+    2 - npm start
